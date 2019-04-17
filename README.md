@@ -1,3 +1,6 @@
+# Fork from Wagtail Simple Gallery
+Add tags feature to [Wagtail Simple Gallery](https://github.com/Temeez/wagtail-simple-gallery)
+
 # Wagtail Simple Gallery
 Is an extension for Torchbox's [Wagtail CMS](https://github.com/torchbox/wagtail) for creating a simple image gallery either by creating a page using the template or a templatetag.
 
